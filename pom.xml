@@ -8,11 +8,11 @@
 		<version>2.3.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.wallpapers</groupId>
-	<artifactId>server</artifactId>
+	<groupId>world.snowleopard</groupId>
+	<artifactId>wallpaper_server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Wallpapers Server</name>
-	<description>wallpapers from the web</description>
+	<name>Wallpaper</name>
+	<description>Wallpapers from the web</description>
 
 	<properties>
 		<java.version>1.8</java.version>
